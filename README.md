@@ -1,5 +1,4 @@
-# LCFSC
-Official Implementation for the paper "Robust Image Semantic Coding With Learnable CSI Fusion Masking Over MIMO Fading Channels" in IEEE TWC.
+# LCFSC: Official Implementation for the paper "Robust Image Semantic Coding With Learnable CSI Fusion Masking Over MIMO Fading Channels" in IEEE TWC.
 
 You can use train.py to train your own model.
 
